@@ -1,4 +1,5 @@
 firstgitproject
 ===============
 
-eerst git project
+first github project. 
+For testing purposes only ;-)
